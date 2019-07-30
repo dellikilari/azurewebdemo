@@ -8,3 +8,8 @@ echo start lxde > ~/.xsession
 sudo /etc/init.d/xrdp start
 
 Add Inbound Rule RDP - 3389
+
+
+Storage Explorer URL :->
+https://azure.microsoft.com/en-us/features/storage-explorer/
+
