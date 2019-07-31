@@ -15,3 +15,6 @@ https://azure.microsoft.com/en-us/features/storage-explorer/
 Day2
 azuretraining / Azuretraining*02011
 admin - Muvo7992 / admin1 --Homa3494
+
+suketunayak@gmail.com
+Cell# 9925552595
