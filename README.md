@@ -1,4 +1,4 @@
-# azurewebdemo
+# azurewebdemo - azuretraining / Azuretraining*02011
 Azure Training Day1
 
 XRDP :->
