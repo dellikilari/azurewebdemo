@@ -1,0 +1,110 @@
+
+AZ300 & AZ301   3rd Sept 2019   DAY - 1
+**********************************************************************
+1. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**************************************  Day - 1  ********************************************
+Azure WebAPP (PaaS)
+1. https://wiproblr2011.blob.core.windows.net/boeing/boeing2019/CreateDeployWebApp.docx
+2. https://wiproblr2011.blob.core.windows.net/boeing/boeing2019/ConfigureDeploymentSlots.docx
+
+Azure Compute - VM: (IaaS) :
+3. https://wiproblr2011.blob.core.windows.net/synechronpune/Create Windows Server VM_Configure_IIS_AzurePortal.docx
+4. https://wiproblr2011.blob.core.windows.net/birlasoft/LINUXVM LAMP WEBSERVER.rar
+
+Azure Load Balancer :->
+5. https://wiproblr2011.blob.core.windows.net/newlabs/AzureLoadBalancer_VirtualMachine.docx
+
+Storage:->>
+6. https://wiproblr2011.blob.core.windows.net/synechronpune/Storage/03_AzureBlobStorage.pdf
+7. https://wiproblr2011.blob.core.windows.net/synechronpune/Storage/06_AzureStorageFiles.pdf
+
+
+Traffic Manager :
+8. https://wiproblr2011.blob.core.windows.net/synechronpune/11_Configure  Traffic  Manager  with  Azure  Web  Apps.pdf
+
+
+Storage Explorer URL :->
+https://azure.microsoft.com/en-us/features/storage-explorer/
+
+***************************************   DAY  2  *******************************************
+Security : Azure Firewall :->>
+9. https://wiproblr2011.blob.core.windows.net/gepusa/Implement Azure Firewall using Route Table, Jump VM, Work VM in VNET.docx
+
+ARM Template (Infra as a Code):-
+10. https://wiproblr2011.blob.core.windows.net/newlabs/ARM Template in VS 2019.zip
+
+Azure Governance Methodologies:->>
+
+11. https://wiproblr2011.blob.core.windows.net/newlabs/AzureManagementGroupDemo.docx
+12. https://wiproblr2011.blob.core.windows.net/newlabs/AzureBlueprintsDemo.docx
+
+
+https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits
+
+13. https://wiproblr2011.blob.core.windows.net/boeing/boeing2019/Sample Que.zip
+14. https://wiproblr2011.blob.core.windows.net/boeing/boeing2019/AZ-203 V13.25.pdf
+
+
+PPT:->>>>>>
+https://wiproblr2011.blob.core.windows.net/boeing/boeing2019/PPT.zip
+
+
+XRDP :->
+sudo apt-get install lxde
+sudo apt-get install xrdp
+echo start lxde > ~/.xsession
+sudo /etc/init.d/xrdp start
+Add Inbound Rule RDP - 3389
+
+
+
+
+Thanks,
+
+Suketu Nayak
+suketunayak@gmail.com
+Cell# 9925552595 / 7211112595
